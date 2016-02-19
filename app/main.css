@@ -1,0 +1,9 @@
+h2 { color: blue; }
+
+.purple { color: purple; }
+.pointer { cursor: pointer; }
+
+body {
+	background-color: black;
+	color: white;
+}
